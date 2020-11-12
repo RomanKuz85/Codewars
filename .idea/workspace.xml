@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -26,11 +29,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8eb2c2e5-ab73-481c-acf7-0b8e4a7d2daa" name="Default Changelist" comment="add solution Sum of Multiples">
-      <change afterPath="$PROJECT_DIR$/.idea/Codewars.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8eb2c2e5-ab73-481c-acf7-0b8e4a7d2daa" name="Default Changelist" comment="added solution: Watermelon.js">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +97,12 @@
       <updated>1604422206071</updated>
       <workItem from="1604422207142" duration="2353000" />
       <workItem from="1604424904814" duration="270000" />
-      <workItem from="1604450448387" duration="277000" />
+      <workItem from="1604450448387" duration="4287000" />
+      <workItem from="1604518424701" duration="1511000" />
+      <workItem from="1604613305581" duration="867000" />
+      <workItem from="1605056802664" duration="865000" />
+      <workItem from="1605110384377" duration="374000" />
+      <workItem from="1605203904838" duration="315000" />
     </task>
     <task id="LOCAL-00001" summary="add solution Draw stairs">
       <created>1604422463388</created>
@@ -134,7 +139,294 @@
       <option name="project" value="LOCAL" />
       <updated>1604450763804</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added solution All Star Challenge#27">
+      <created>1604450952115</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604450952115</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added solution Training JS #10: loop statement --for.">
+      <created>1604451377268</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604451377268</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added solution: Grasshopper - Summation">
+      <created>1604451537614</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604451537614</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added solution: No zeros for heros">
+      <created>1604451679136</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604451679136</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added solution: simple calculator">
+      <created>1604451842988</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604451842988</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added solution: Switch it Up!">
+      <created>1604451947582</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1604451947582</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added solution: Basic Mathematical Operations">
+      <created>1604452078864</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1604452078864</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added solution: Training JS #8: Conditional statement--switch">
+      <created>1604452285450</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1604452285450</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added solution: Training JS #7: if..else and ternary operator">
+      <created>1604452464551</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1604452464551</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added solution: Do I get a bonus?">
+      <created>1604452634452</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1604452634452</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added solution: 101 Dalmatinas - squash the bugs...">
+      <created>1604452804844</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1604452804844</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added solution: Polish alphabet">
+      <created>1604453215379</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1604453215379</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added solution: Correct the mistakes of the character recognition software">
+      <created>1604453402720</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1604453402720</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added solution: Vowel remover">
+      <created>1604453492435</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1604453492435</updated>
+    </task>
+    <task id="LOCAL-00020" summary="added solution: Days in the year">
+      <created>1604453671236</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1604453671236</updated>
+    </task>
+    <task id="LOCAL-00021" summary="added solution: Watermelon">
+      <created>1604454181028</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1604454181028</updated>
+    </task>
+    <task id="LOCAL-00022" summary="added solution: Plural">
+      <created>1604454342588</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1604454342588</updated>
+    </task>
+    <task id="LOCAL-00023" summary="added solution: Are You Playing Banjo?">
+      <created>1604454501770</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1604454501770</updated>
+    </task>
+    <task id="LOCAL-00024" summary="added solution: Be Concise I - The Ternany Opersator">
+      <created>1604454843109</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1604454843109</updated>
+    </task>
+    <task id="LOCAL-00025" summary="added solution: Convert number to reversed array of digits">
+      <created>1604454955217</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1604454955217</updated>
+    </task>
+    <task id="LOCAL-00026" summary="added solution: My head is at the wrong end!">
+      <created>1604455099913</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1604455099913</updated>
+    </task>
+    <task id="LOCAL-00027" summary="added solution: Can we divide it?">
+      <created>1604518615215</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1604518615215</updated>
+    </task>
+    <task id="LOCAL-00028" summary="added solution: L1: Set Alarm">
+      <created>1604518874360</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1604518874360</updated>
+    </task>
+    <task id="LOCAL-00029" summary="added solution: Rock Paper Scissors!">
+      <created>1604519011614</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1604519011614</updated>
+    </task>
+    <task id="LOCAL-00030" summary="added solution: Is n divisible by x and y?">
+      <created>1604519137140</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1604519137140</updated>
+    </task>
+    <task id="LOCAL-00031" summary="added solution: Area of a square">
+      <created>1604519247002</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1604519247002</updated>
+    </task>
+    <task id="LOCAL-00032" summary="added solution: Student's Final Grade">
+      <created>1604519387229</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1604519387229</updated>
+    </task>
+    <task id="LOCAL-00033" summary="added solution: Removing Elements">
+      <created>1604519477586</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1604519477586</updated>
+    </task>
+    <task id="LOCAL-00034" summary="added solution: Find numbers which are divisible by given numbers">
+      <created>1604519616447</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1604519616447</updated>
+    </task>
+    <task id="LOCAL-00035" summary="added solution: Filter out the geese">
+      <created>1604519726918</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1604519726918</updated>
+    </task>
+    <task id="LOCAL-00036" summary="added solution: List Filtering">
+      <created>1604519822914</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1604519822914</updated>
+    </task>
+    <task id="LOCAL-00037" summary="added solution: Remove String Spaces">
+      <created>1604613420532</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1604613420532</updated>
+    </task>
+    <task id="LOCAL-00038" summary="added solution: Area or Perimetr">
+      <created>1604613526927</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1604613526927</updated>
+    </task>
+    <task id="LOCAL-00039" summary="added solution: Cat years, Dog years">
+      <created>1604613636746</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1604613636746</updated>
+    </task>
+    <task id="LOCAL-00040" summary="added solution: Simple multiplication">
+      <created>1604613736074</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1604613736074</updated>
+    </task>
+    <task id="LOCAL-00041" summary="added solution: Alan Patridge ||-Apple Turnover">
+      <created>1604613948353</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1604613948353</updated>
+    </task>
+    <task id="LOCAL-00042" summary="added solution: Holiday VI - Shark Pontoon">
+      <created>1604614122701</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1604614122701</updated>
+    </task>
+    <task id="LOCAL-00043" summary="added solution: Training JS #29: methods of arrayObject---concat() and join()">
+      <created>1605058522733</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1605058522733</updated>
+    </task>
+    <task id="LOCAL-00044" summary="added solution: Form The Minimum">
+      <created>1605059724581</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1605059724581</updated>
+    </task>
+    <task id="LOCAL-00045" summary="added solution: Maximum Length Difference">
+      <created>1605110566570</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1605110566571</updated>
+    </task>
+    <task id="LOCAL-00046" summary="added solution: max diff - easy">
+      <created>1605110647401</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1605110647401</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,18 +458,44 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add solution Draw stairs" />
-    <MESSAGE value="add solution Beginner Series #3" />
-    <MESSAGE value="add solution Sum of Multiples" />
-    <MESSAGE value="update readme file" />
-    <MESSAGE value="added solution All Star Code Challenge#27" />
-    <option name="LAST_COMMIT_MESSAGE" value="added solution All Star Code Challenge#27" />
+    <MESSAGE value="added solution: Plural" />
+    <MESSAGE value="added solution: Are You Playing Banjo?" />
+    <MESSAGE value="added solution: Be Concise I - The Ternany Opersator" />
+    <MESSAGE value="added solution: Convert number to reversed array of digits" />
+    <MESSAGE value="added solution: My head is at the wrong end!" />
+    <MESSAGE value="added solution: Can we divide it?" />
+    <MESSAGE value="added solution: L1: Set Alarm" />
+    <MESSAGE value="added solution: Rock Paper Scissors!" />
+    <MESSAGE value="added solution: Is n divisible by x and y?" />
+    <MESSAGE value="added solution: Area of a square" />
+    <MESSAGE value="added solution: Student's Final Grade" />
+    <MESSAGE value="added solution: Removing Elements" />
+    <MESSAGE value="added solution: Find numbers which are divisible by given numbers" />
+    <MESSAGE value="added solution: Filter out the geese" />
+    <MESSAGE value="added solution: List Filtering" />
+    <MESSAGE value="added solution: Remove String Spaces" />
+    <MESSAGE value="added solution: Area or Perimetr" />
+    <MESSAGE value="added solution: Cat years, Dog years" />
+    <MESSAGE value="added solution: Simple multiplication" />
+    <MESSAGE value="added solution: Alan Patridge ||-Apple Turnover" />
+    <MESSAGE value="added solution: Holiday VI - Shark Pontoon" />
+    <MESSAGE value="added solution: Training JS #29: methods of arrayObject---concat() and join()" />
+    <MESSAGE value="added solution: Form The Minimum" />
+    <MESSAGE value="added solution: Maximum Length Difference" />
+    <MESSAGE value="added solution: max diff - easy" />
+    <option name="LAST_COMMIT_MESSAGE" value="added solution: max diff - easy" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="351" y="26" key="CommitChangelistDialog2" timestamp="1604425098639">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="127" y="298" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604452336642">
+      <screen x="0" y="23" width="1680" height="967" />
     </state>
-    <state x="351" y="26" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1604425098639" />
+    <state x="127" y="298" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.967@0.23.1680.967" timestamp="1604452336642" />
+    <state x="39" y="23" key="CommitChangelistDialog2" timestamp="1605110647238">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="397" y="52" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1604451537450" />
+    <state x="39" y="23" key="CommitChangelistDialog2/0.23.1680.966@0.23.1680.966" timestamp="1605110647238" />
+    <state x="304" y="23" key="CommitChangelistDialog2/0.23.1680.967@0.23.1680.967" timestamp="1604614122539" />
     <state x="558" y="378" key="Github.CreatePullRequestDialog" timestamp="1604424653513">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -190,11 +508,12 @@
       <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state x="100" y="100" width="1480" height="850" key="VCS.FileHistoryDialog/0.23.1680.972@0.23.1680.972" timestamp="1604422890767" />
-    <state x="340" y="202" key="Vcs.Push.Dialog.v2" timestamp="1604425108753">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="340" y="209" key="Vcs.Push.Dialog.v2" timestamp="1605110649183">
+      <screen x="0" y="23" width="1680" height="966" />
     </state>
-    <state x="340" y="202" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1604425108753" />
-    <state x="340" y="209" key="Vcs.Push.Dialog.v2/0.23.1680.967@0.23.1680.967" timestamp="1604423796501" />
+    <state x="340" y="202" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1604451554180" />
+    <state x="340" y="209" key="Vcs.Push.Dialog.v2/0.23.1680.966@0.23.1680.966" timestamp="1605110649183" />
+    <state x="340" y="209" key="Vcs.Push.Dialog.v2/0.23.1680.967@0.23.1680.967" timestamp="1604614124131" />
     <state x="407" y="203" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1604424582997">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -203,5 +522,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="596" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1604422976884" />
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup" timestamp="1604519898496">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1604519898496" />
   </component>
 </project>
