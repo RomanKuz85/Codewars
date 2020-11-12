@@ -19,5 +19,4 @@ function SeriesSum(n){
         b = b + 3;
     }
     return c.toFixed(2);
-
 }
